@@ -1,5 +1,10 @@
 # khinsider.py
 
+> This is a modified version of khinisder.py with an
+> explicit focus of being easy to upload to and install
+> from PyPI. Please go support the original release:
+> https://github.com/obskyr/khinsider
+
 `khinsider.py` is a [Python](https://www.python.org/) interface for getting [khinsider](http://downloads.khinsider.com/) soundtracks. It makes khinsider mass downloads a breeze. It's easy to use - check it!
 
 From the command line:
